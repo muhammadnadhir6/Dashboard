@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard Risk Management BRI",
+  "description": "Responsible AI Credit Risk Dashboard dengan monitoring Fairness, Explainability SHAP & LIME, Human Oversight, dan filter interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
